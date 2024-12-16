@@ -21,7 +21,7 @@
 		]
 	},
 	"mates":{
-		"age_range": 40,
+		"age_range": 120,
 		"override_same_age_group": false,
 		"chance_fulfilled_condition": 5,
 		"chance_friends_to_lovers": 170,
@@ -294,7 +294,7 @@
 		"war_injury_modifier": 100
 	},
 	"clan_creation": {
-		"rerolls": 3,
+		"rerolls": -1,
 		"comment": "Set this to -1 for it to be infinite"
 	},
 	"graduation": {
